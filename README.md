@@ -56,7 +56,7 @@ Model the demand for shared bikes with the available independent variables. It w
     2      holiday      1.01
 
 ### Error Analysis on Train Set
-![Error Analysis](https://github.com/joshigeek/BikeSharing/error_train.png?raw=true)
+![Error Analysis](https://github.com/joshigeek/BikeSharing/blob/main/error_train.png?raw=true)
 
 ## R-Square values
 * On Train Set: 0.8419
